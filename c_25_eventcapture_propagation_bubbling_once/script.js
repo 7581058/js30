@@ -97,3 +97,5 @@ button.addEventListener('click', () => {
   once: true
 })
 
+//once:true 로 설정했기 때문에 
+//버튼을 여러번 클릭해도 콘솔 출력은 한 번만 됨 
